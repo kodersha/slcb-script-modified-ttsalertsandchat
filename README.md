@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">TTSAlertsAndChat</h1>
+  <h1 align="center">TTSAlertsAndChat Modified</h1>
 
   <p align="center">
     Chat to Speech for Twitch highlighted message with IVONA Maxim for Streamlabs Chatbot
